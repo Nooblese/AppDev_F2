@@ -1,0 +1,13 @@
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\bin\Debug\045_basseg_Alcantara_F2.exe.config
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\bin\Debug\045_basseg_Alcantara_F2.exe
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\bin\Debug\045_basseg_Alcantara_F2.pdb
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\bin\Debug\System.Data.OleDb.dll
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\bin\Debug\System.Data.OleDb.xml
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\obj\Debug\045_basseg_Alcantara_F2.csproj.AssemblyReference.cache
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\obj\Debug\_045_basseg_Alcantara_F2.Form1.resources
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\obj\Debug\_045_basseg_Alcantara_F2.Properties.Resources.resources
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\obj\Debug\045_basseg_Alcantara_F2.csproj.GenerateResource.cache
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\obj\Debug\045_basseg_Alcantara_F2.csproj.CoreCompileInputs.cache
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\obj\Debug\045_bass.2BDE8340.Up2Date
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\obj\Debug\045_basseg_Alcantara_F2.exe
+D:\School Works\045_basseg_Alcantara_F2\045_basseg_Alcantara_F2\obj\Debug\045_basseg_Alcantara_F2.pdb
